@@ -4,5 +4,5 @@
 "discordId":"883909112738504704",
 "pool-list":"true",
 "poolMetaData":"https://raw.githubusercontent.com/449sabu/CardanoSP/main/poolMetaData.json",
-"validation":""
+"validation":"https://raw.githubusercontent.com/449sabu/sjg-validation.json/main/sjg-validation.json"
 }
